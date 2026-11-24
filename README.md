@@ -22,5 +22,7 @@ My learning lab journal: networking, Linux, Docker, and DevOps.
 | Date | What I did |
 |------|------------|
 | 2026-11-24 | Created the repository and README |
+| 2026-11-24 | Practiced git push conflict and rebase |
+
 ## Contact
 Open to Junior Network Engineer roles. Lviv, Ukraine / remote.
